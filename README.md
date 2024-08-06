@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is an alt account, cause I wanted another GitHub subdomain name for my website, but little did I know '&' isn't supported 😭 
+This is an alt account.
 
 <!--
 **B-and-B-Studio/B-and-B-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
