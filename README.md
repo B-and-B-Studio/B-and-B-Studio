@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is an alt account.
+[Baduk / Weiqi / Go Game Guide / Roadmap for Beginners and Intermediate Players](https://weiqi.soumyak4.in)
 
 <!--
 **B-and-B-Studio/B-and-B-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
